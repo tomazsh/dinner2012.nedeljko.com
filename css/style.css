@@ -46,10 +46,10 @@ figure {
 .js.cssanimations.csstransforms .plate {
 	top: -3000em;
 	left: -3000em;
-	-webkit-animation: plate-animation 0.6s ease-out 1s forwards;
-	-moz-animation: plate-animation 0.6s ease-out 1s forwards;
-	-o-animation: plate-animation 0.6s ease-out 1s forwards;
-	animation: plate-animation 0.6s ease-out 1s forwards;
+	-webkit-animation: plate-animation 0.6s ease-out 2s forwards;
+	-moz-animation: plate-animation 0.6s ease-out 2s forwards;
+	-o-animation: plate-animation 0.6s ease-out 2s forwards;
+	animation: plate-animation 0.6s ease-out 2s forwards;
 }
 
 .napkin {
@@ -65,10 +65,10 @@ figure {
 .js.cssanimations.csstransforms .napkin {
 	top: -3000em;
 	left: -3000em;
-	-webkit-animation: napkin-animation 0.6s ease-out 2s forwards;
-	-moz-animation: napkin-animation 0.6s ease-out 2s forwards;
-	-o-animation: napkin-animation 0.6s ease-out 2s forwards;
-	animation: napkin-animation 0.6s ease-out 2s forwards;
+	-webkit-animation: napkin-animation 0.6s ease-out 3s forwards;
+	-moz-animation: napkin-animation 0.6s ease-out 3s forwards;
+	-o-animation: napkin-animation 0.6s ease-out 3s forwards;
+	animation: napkin-animation 0.6s ease-out 3s forwards;
 }
 
 .fork {
@@ -84,10 +84,10 @@ figure {
 .js.cssanimations.csstransforms .fork {
 	top: -3000em;
 	left: -3000em;
-	-webkit-animation: fork-animation 0.75s ease-out 1.5s forwards;
-	-moz-animation: fork-animation 0.75s ease-out 1.5s forwards;
-	-o-animation: fork-animation 0.75s ease-out 1.5s forwards;
-	animation: fork-animation 0.75s ease-out 1.5s forwards;
+	-webkit-animation: fork-animation 0.75s ease-out 2.5s forwards;
+	-moz-animation: fork-animation 0.75s ease-out 2.5s forwards;
+	-o-animation: fork-animation 0.75s ease-out 2.5s forwards;
+	animation: fork-animation 0.75s ease-out 2.5s forwards;
 }
 
 .knife {
@@ -103,10 +103,10 @@ figure {
 .js.cssanimations.csstransforms .knife {
 	top: -3000em;
 	left: -3000em;
-	-webkit-animation: knife-animation 0.75s ease-out 1.25s forwards;
-	-moz-animation: knife-animation 0.75s ease-out 1.25s forwards;
-	-o-animation: knife-animation 0.75s ease-out 1.25s forwards;
-	animation: knife-animation 0.75s ease-out 1.25s forwards;
+	-webkit-animation: knife-animation 0.75s ease-out 2.25s forwards;
+	-moz-animation: knife-animation 0.75s ease-out 2.25s forwards;
+	-o-animation: knife-animation 0.75s ease-out 2.25s forwards;
+	animation: knife-animation 0.75s ease-out 2.25s forwards;
 }
 
 .spoon {
@@ -122,10 +122,10 @@ figure {
 .js.cssanimations.csstransforms .spoon {
 	top: -3000em;
 	left: -3000em;
-	-webkit-animation: spoon-animation 0.75s ease-out 1.6s forwards;
-	-moz-animation: spoon-animation 0.75s ease-out 1.6s forwards;
-	-o-animation: spoon-animation 0.75s ease-out 1.6s forwards;
-	animation: spoon-animation 0.75s ease-out 1.6s forwards;
+	-webkit-animation: spoon-animation 0.75s ease-out 2.6s forwards;
+	-moz-animation: spoon-animation 0.75s ease-out 2.6s forwards;
+	-o-animation: spoon-animation 0.75s ease-out 2.6s forwards;
+	animation: spoon-animation 0.75s ease-out 2.6s forwards;
 }
 
 time {
@@ -142,10 +142,10 @@ time {
 
 .js.cssanimations.csstransforms time {
 	opacity: 0;
-	-webkit-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	-moz-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	-o-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	animation: fade-animation 0.75s ease-out 3.5s forwards;
+	-webkit-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	-moz-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	-o-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	animation: fade-animation 0.75s ease-out 4.5s forwards;
 }
 
 time span {
@@ -165,10 +165,10 @@ time span {
 
 .js.cssanimations.csstransforms .rsvp {
 	opacity: 0;
-	-webkit-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	-moz-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	-o-animation: fade-animation 0.75s ease-out 3.5s forwards;
-	animation: fade-animation 0.75s ease-out 3.5s forwards;
+	-webkit-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	-moz-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	-o-animation: fade-animation 0.75s ease-out 4.5s forwards;
+	animation: fade-animation 0.75s ease-out 4.5s forwards;
 }
 
 .rsvp a {

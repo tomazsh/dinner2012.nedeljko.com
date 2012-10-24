@@ -12,13 +12,20 @@
 </head>
 <body>
 	<figure>
-		<img src="img/napkin.svg" alt="Napkin" class="napkin" />
-		<img src="img/fork.svg" alt="Fork" class="fork" />
-		<img src="img/plate.svg" alt="Plate" class="plate" />
-		<img src="img/knife.svg" alt="Knife" class="knife" />
-		<img src="img/spoon.svg" alt="Spoon" class="spoon" />
+		<img src="img/napkin.png" alt="Napkin" class="napkin" />
+		<img src="img/fork.png" alt="Fork" class="fork" />
+		<img src="img/plate.png" alt="Plate" class="plate" />
+		<img src="img/knife.png" alt="Knife" class="knife" />
+		<img src="img/spoon.png" alt="Spoon" class="spoon" />
 	</figure>
 	<p><a href="http://goo.gl/maps/bvTzi" title=""><time><span>03.11.2012</span> <span>18:00</span></time></a></p>
-	<p class="rsvp"><a href="mailto:tomaz.nedeljko+dinner2012@gmail.com?subject=RSVP" title="Répondez s'il vous plaît" alt="Répondez s'il vous plaît"><img src="img/rsvp.svg" alt="RSVP" /> RSVP</a></p>
+	<p class="rsvp"><a href="mailto:tomaz.nedeljko+dinner2012@gmail.com?subject=RSVP" title="Répondez s'il vous plaît" alt="Répondez s'il vous plaît"><img src="img/rsvp.png" alt="RSVP" /> RSVP</a></p>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" charset="utf-8">
+	$('.svg img').each(function() {
+		var name = $(this).attr('src').replace('png', 'svg');
+		$(this).attr('src', name);
+	});
+	</script>
 </body>
 </html>
